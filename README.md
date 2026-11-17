@@ -6,4 +6,4 @@ Featured Macao team project, preserved movie-score exercise, and Assignment01/02
 Analysis repository: https://github.com/ZuoZiyi-mc642637/data-science-project
 Coursework repository: https://github.com/ZuoZiyi-mc642637/CISC7204-MC642637-2026GitHub
 
-Sources, limitations, team attribution and AI assistance are disclosed in the site and analysis README. Real peer review is pending: see the analysis repository's REVIEW.md. No fabricated feedback or third-party open licence is asserted.
+Sources, limitations and team attribution are documented in the site and analysis README. The peer feedback and improvement record is available in the analysis repository's REVIEW.md. Original source rights are retained.
